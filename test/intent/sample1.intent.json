@@ -1,0 +1,7 @@
+{
+  "utterance": "what is the color of the sun",
+  "intent_type": "ColorSunIntent",
+  "intent": {
+    "ColorSun": "the color of the sun is yellow"
+  }
+}

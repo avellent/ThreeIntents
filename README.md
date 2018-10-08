@@ -1,2 +1,1 @@
-# ThreeIntents
-three basic intents
+2 intents
